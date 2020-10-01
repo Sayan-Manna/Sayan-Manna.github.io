@@ -56,6 +56,7 @@
 
   h5 {
     margin-top: 0.5rem;
+    justify-items: center;
   }
 
   hr {
@@ -68,4 +69,5 @@
     display: table;
     margin: 0 auto;
     text-align: left;
+    
   }
